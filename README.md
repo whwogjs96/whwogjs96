@@ -9,7 +9,8 @@
 
 ### :bulb: My Experience  
 1️⃣ PLZ - Android Manager  
-2️⃣ Logispot - Android & IOS Manager
+2️⃣ Logispot - Android & IOS Manager  
+3️⃣ SixdotFiveCompany - develop manager
 ### My SNS List
 
  <a href="https://www.instagram.com/pharmacy_heon" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -24,7 +25,7 @@
 ### Cowork-Stack
   
   <a target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/KakaoWolk-FFCD00?style=flat-square&logo=kakao&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/KakaoWork-FFCD00?style=flat-square&logo=kakao&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
