@@ -29,6 +29,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
    
   
 ### 🌱 Study 🌱  
