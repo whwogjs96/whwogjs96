@@ -7,10 +7,14 @@
 아직 모자란 부분이 많고 배우는 과정에 있습니다.:blush:  
 잘 부탁드립니다!  
 
-### :bulb: My Experience  
+### :bulb: My Job    
 1️⃣ PLZ - Android Manager  
-2️⃣ Logispot - Android & IOS Manager  
-3️⃣ SixdotFiveCompany - develop manager
+2️⃣ SixDotFiveCompany - develop manager  
+3️⃣ Logispot - Android & IOS Manager  
+
+### :bulb: My Experience  
+1️⃣ CMC(Makers) - Android developer(team finder)  
+
 ### My SNS List
 
  <a href="https://www.instagram.com/pharmacy_heon" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
