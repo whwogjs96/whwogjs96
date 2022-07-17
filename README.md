@@ -7,7 +7,7 @@
 아직 모자란 부분이 많고 배우는 과정에 있습니다.:blush:  
 잘 부탁드립니다!  
 
-### :bulb: My Job    
+### :bulb: My Career    
 1️⃣ PLZ - Android Manager  
 2️⃣ SixDotFiveCompany - develop manager  
 3️⃣ Logispot - Android & IOS Manager  
