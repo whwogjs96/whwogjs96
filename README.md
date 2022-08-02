@@ -9,11 +9,11 @@
 
 ### :bulb: My Career    
 1️⃣ PLZ - Android Manager  
-2️⃣ SixDotFiveCompany - develop manager  
-3️⃣ Logispot - Android & IOS Manager  
+2️⃣ Logispot - Android & IOS Manager  
 
 ### :bulb: My Experience  
 1️⃣ CMC(Makers) - Android developer(team finder)  
+2️⃣ SixDotFiveCompany - develop manager  
 
 ### My SNS List
 
@@ -34,11 +34,14 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
    
   
 ### 🌱 Study 🌱  
   <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=AACCBB&section=footer&text=%20good%20luck%20&fontColor=EBEFF5&height=250&fontSize=100&textBg=false)
 
