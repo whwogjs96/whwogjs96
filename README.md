@@ -12,7 +12,7 @@
 2️⃣ Logispot - Android & IOS Manager  
 
 ### :bulb: My Experience  
-1️⃣ CMC(Makers) - Android developer(team finder)  
+1️⃣ CMC(challenger) - Android developer(team finder)  
 2️⃣ SixDotFiveCompany - develop manager  
 :three: CMC(Makers) - manager(android part)  
 
