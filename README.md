@@ -14,7 +14,7 @@
 ### :bulb: My Experience  
 1️⃣ CMC(challenger) - Android developer(team finder)  
 2️⃣ SixDotFiveCompany - develop manager  
-:three: CMC(Makers) - manager(android part)  
+:three: CMC(managers) - Android manager  
 
 ### My SNS List
 
