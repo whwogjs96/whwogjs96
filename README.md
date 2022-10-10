@@ -9,8 +9,8 @@
 잘 부탁드립니다!  
 
 ### :bulb: My Career    
-1️⃣ PLZ - Android Manager  
-2️⃣ Logispot - Android & IOS Manager  
+1️⃣ PLZ - Android Manager(2020.07 ~ 2021.10)  
+2️⃣ Logispot - Android & IOS Manager(2021.11 ~ )  
 
 ### :bulb: My Experience  
 1️⃣ CMC(challenger) - Android developer(team finder)  
