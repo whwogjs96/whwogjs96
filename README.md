@@ -17,6 +17,10 @@
 2️⃣ SixDotFiveCompany - develop manager  
 :three: CMC(managers) - Android manager  
 
+### ✨ toy project
+:one: f!inder - (2022.04 ~ 2022.07)  
+:two: runner-be - (2022. 10 ~ )
+
 ### My SNS List
 
  <a href="https://www.instagram.com/pharmacy_heon" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
