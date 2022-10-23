@@ -18,7 +18,7 @@
 :three: CMC(managers) - Android manager  
 
 ### ✨ toy project
-:one: f!inder - (2022.04 ~ 2022.07)  
+:one: f!nder - (2022.04 ~ 2022.07)  
 :two: runner-be - (2022. 10 ~ )
 
 ### My SNS List
