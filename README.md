@@ -5,12 +5,13 @@
 안녕하세요.  
 안드로이드 개발자로 일하고 있는 조재헌입니다.  
 아직 모자란 부분이 많고 배우는 과정에 있습니다.:blush:  
-지적은 언제나 환영입니다.  
+도움이 필요하면 언제든 연락 부탁드립니다.  
+또한 지적은 언제나 환영입니다.  
 잘 부탁드립니다!  
 
 ### :bulb: My Career    
 1️⃣ PLZ - Android Manager(2020.07 ~ 2021.10)  
-2️⃣ Logispot - Android & IOS Manager(2021.11 ~ )  
+2️⃣ Logispot - Mobile Manager(2021.11 ~ )  
 
 ### :bulb: My Experience  
 1️⃣ CMC(challenger) - Android developer(team finder)  
