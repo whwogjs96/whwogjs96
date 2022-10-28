@@ -20,8 +20,11 @@
 
 ### ✨ toy project
 :one: f!nder - (2022.04 ~ 2022.07)  
-:two: runner-be - (2022. 10 ~ )
+:two: Runner-be - (2022. 10 ~ )
 
+ ### [📓 Portfolio](https://truth-system-c90.notion.site/97ed498a1bc54d1c83a46e3caf41a050/)  
+ 
+   
 ### My SNS List
 
  <a href="https://www.instagram.com/pharmacy_heon" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -33,6 +36,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
   
+ 
 ### Cowork-Stack
   
   <a target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
