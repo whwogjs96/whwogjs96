@@ -19,8 +19,11 @@
 :three: CMC(managers) - Android manager  
 
 ### ✨ toy project
-:one: f!nder - (2022.04 ~ 2022.07)  
-:two: Runner-be - (2022. 10 ~ )
+:one: f!nder(android) - (2022.04 ~ 2022.07)  
+:two: Runner-be(android) - (2022. 10 ~ )
+  
+### 😛 outsourcing  
+:one: pawpaw project(android) - (2022.11 ~ )
 
  ### [📓 Portfolio](https://truth-system-c90.notion.site/97ed498a1bc54d1c83a46e3caf41a050/)  
  
