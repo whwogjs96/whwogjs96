@@ -23,7 +23,7 @@
 :two: Runner-be(android) - (2022. 10 ~ )
   
 ### 😛 outsourcing  
-:one: pawpaw project(android) - (2022.11 ~ )
+:one: pawsley project(android) - (2022.11 ~ )
 
  ### [📓 Portfolio](https://truth-system-c90.notion.site/97ed498a1bc54d1c83a46e3caf41a050/)  
  
