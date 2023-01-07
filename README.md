@@ -16,7 +16,7 @@
 ### 💻 My Experience  
 1️⃣ CMC(challenger) - Android developer(team finder)  
 2️⃣ SixDotFiveCompany - develop manager  
-:three: CMC(managers) - Android manager  
+:three: CMC(manager) - Android manager  
 
 ### ✨ toy project
 :one: f!nder(android) - (2022.04 ~ 2022.07)  
