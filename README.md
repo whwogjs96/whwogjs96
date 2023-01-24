@@ -11,7 +11,7 @@
 
 ### :bulb: My Career    
 1️⃣ PLZ - Android Manager(2020.07 ~ 2021.10)  
-2️⃣ Logispot - Mobile Manager(2021.11 ~ )  
+2️⃣ Logispot - Mobile Manager(2021.11 ~2023.2)  
   
 ### 💻 My Experience  
 1️⃣ CMC(challenger) - Android developer(team finder)  
