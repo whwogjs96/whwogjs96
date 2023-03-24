@@ -15,9 +15,10 @@
 3️⃣ DearU - Android manager(2023.2 ~ )
   
 ### 💻 My Experience  
-1️⃣ CMC(challenger) - Android developer(team finder)  
+1️⃣ CMC(challenger) - Android developer(team finder, 2022.04 ~ 2022.07)  
 2️⃣ SixDotFiveCompany - develop manager  
-:three: CMC(manager) - Android manager  
+3️⃣ CMC(manager) - Android manager(2022.08 ~ 2022.11)  
+4️⃣ CMC(manager) - operation leader(2022.12 ~ )  
 
 ### ✨ toy project
 :one: f!nder(android) - (2022.04 ~ 2022.07)  
