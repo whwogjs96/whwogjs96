@@ -25,8 +25,8 @@
 :two: Runner-be(android) - (2022.10 ~  )
   
 ### 😛 outsourcing  
-:one: pawsley project(android) - (2022.11 ~ 2023.3)  
-2️⃣ space tailer(android) - (2023.3 ~ 2023.3)
+:one: pawsley project(android) - (2022.11 ~ 2023.4)  
+2️⃣ space tailer(android) - (2023.3 ~ 2023.4)
 
  ### [📓 Portfolio](https://truth-system-c90.notion.site/97ed498a1bc54d1c83a46e3caf41a050/)  
  
