@@ -22,7 +22,7 @@
 
 ### ✨ toy project
 :one: f!nder(android) - (2022.04 ~ 2022.07)  
-:two: Runner-be(android) - (2022.10 ~  )
+:two: [Runner-be](https://play.google.com/store/apps/details?id=com.applemango.runnerbe&hl=ko) (android) - (2022.10 ~  )
   
 ### 😛 outsourcing  
 :one: pawsley project(android) - (2022.11 ~ 2023.4)  
@@ -57,13 +57,12 @@
 ### 🌱 Study 🌱  
   <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>  
+<a target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>  
 
 ### :smile: Etc...   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhwogjs96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwogjs12)](https://solved.ac/profile/whwogjs12)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=AACCBB&section=footer&text=%20good%20luck%20&fontColor=EBEFF5&height=250&fontSize=100&textBg=false)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=AACCBB&section=footer&text=%20thank%20you%20&fontColor=EBEFF5&height=250&fontSize=100&textBg=false)
 
 </div>
