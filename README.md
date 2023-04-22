@@ -18,11 +18,12 @@
 1️⃣ CMC(challenger) - Android developer(team finder, 2022.04 ~ 2022.07)  
 2️⃣ SixDotFiveCompany - develop manager  
 3️⃣ CMC(manager) - Android manager(2022.08 ~ 2022.11)  
-4️⃣ CMC(manager) - operation leader(2022.12 ~ )  
+4️⃣ CMC(manager) - operation leader(2022.12 ~ 2023.9)  
 
 ### ✨ toy project
 :one: f!nder(android) - (2022.04 ~ 2022.07)  
-:two: [Runner-be](https://play.google.com/store/apps/details?id=com.applemango.runnerbe&hl=ko) (android) - (2022.10 ~  )
+:two: [Runner-be](https://play.google.com/store/apps/details?id=com.applemango.runnerbe&hl=ko) (android) - (2022.10 ~  )  
+3️⃣ galapagos (planner && server) - (2023.4 ~ )
   
 ### 😛 outsourcing  
 :one: pawsley project(android) - (2022.11 ~ 2023.4)  
