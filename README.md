@@ -9,7 +9,7 @@
 또한 지적은 언제나 환영입니다.  
 잘 부탁드립니다!  
 
-### :bulb: My Career    
+### 💡 My Career    
 1️⃣ PLZ - Android Manager(2020.07 ~ 2021.10)  
 2️⃣ Logispot - Mobile Manager(2021.11 ~2023.2)  
 3️⃣ DearU - Android manager(2023.2 ~ )
@@ -21,12 +21,12 @@
 4️⃣ CMC(manager) - operation leader(2022.12 ~ 2023.9)  
 
 ### ✨ toy project
-:one: f!nder(android) - (2022.04 ~ 2022.07)  
-:two: [Runner-be](https://play.google.com/store/apps/details?id=com.applemango.runnerbe&hl=ko) (android) - (2022.10 ~  )  
-3️⃣ galapagos (planner && server) - (2023.4 ~ )
+1️⃣ f!nder(android) - (2022.04 ~ 2022.07)  
+2️⃣ [Runner-be](https://play.google.com/store/apps/details?id=com.applemango.runnerbe&hl=ko) (android) - (2022.10 ~  )  
+3️⃣ Galapagos (PM && server) - (2023.4 ~ )
   
 ### 😛 outsourcing  
-:one: pawsley project(android) - (2022.11 ~ 2023.4)  
+1️⃣ pawsley project(android) - (2022.11 ~ 2023.4)  
 2️⃣ space tailer(android) - (2023.3 ~ 2023.4)
 
  ### [📓 Portfolio](https://truth-system-c90.notion.site/97ed498a1bc54d1c83a46e3caf41a050/)  
