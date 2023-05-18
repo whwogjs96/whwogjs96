@@ -13,12 +13,12 @@
 ### 💡 My Career    
 1️⃣ PLZ - Android Manager(2020.07 ~ 2021.10)  
 2️⃣ Logispot - Mobile Manager(2021.11 ~2023.2)  
-3️⃣ DearU - Android manager(2023.2 ~ )
+3️⃣ DearU - Android Manager(2023.2 ~ )
   
 ### 💻 My Experience  
-1️⃣ CMC(challenger) - Android developer(team finder, 2022.04 ~ 2022.07)  
+1️⃣ [CMC(challenger)](https://www.makeus.in/cmc) - Android developer(team finder, 2022.04 ~ 2022.07)  
 2️⃣ SixDotFiveCompany - develop manager  
-3️⃣ CMC(manager) - Android manager(2022.08 ~ 2022.11)  
+3️⃣ [CMC(manager)](https://www.makeus.in/cmc) - Android manager(2022.08 ~ 2022.11)  
 4️⃣ [CMC(manager)](https://www.makeus.in/cmc) - operation leader(2022.12 ~ 2023.9)  
 
 ### ✨ toy project
@@ -27,7 +27,7 @@
 3️⃣ Galapagos (PM && server) - (2023.4 ~ )
   
 ### 😛 outsourcing  
-1️⃣ pawsley project(android) - (2022.11 ~ 2023.5)  
+1️⃣ pawsley project(android) - (2022.11 ~ 2023.6)  
 2️⃣ space tailer(android) - (2023.3 ~ 2023.5)
 
  ### [📓 Portfolio](https://truth-system-c90.notion.site/97ed498a1bc54d1c83a46e3caf41a050/)  
