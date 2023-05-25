@@ -11,7 +11,7 @@
 잘 부탁드립니다!  
 
 ### 💡 My Career    
-1️⃣ PLZ - Android Manager(2020.07 ~ 2021.10)  
+1️⃣ 주식회사 피엘지 - Android Manager(2020.07 ~ 2021.10)  
 2️⃣ Logispot - Mobile Manager(2021.11 ~2023.2)  
 3️⃣ DearU - Android Manager(2023.2 ~ )
   
