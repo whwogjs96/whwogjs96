@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&text=%20nice%20meet%20you%20&animation=fadeIn&fontColor=FEFEFE&height=250&fontSize=100&textBg=false)
 
 안녕하세요.  
-안드로이드 개발자로 일하고 있는 조재헌입니다.  
+안드로이드 개발자로 일하고 있고, 서버를 위해 스프링을 공부중인 조재헌입니다.  
 아직 모자란 부분이 많고 배우는 과정에 있습니다.:blush:  
 사람을 되게 좋아하기 때문에 도움이 필요하면 언제든 연락 부탁드립니다.  
 또한 지적은 언제나 환영입니다.  
