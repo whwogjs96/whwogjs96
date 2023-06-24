@@ -54,6 +54,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Zeplin-FF7F00?style=flat-square&logoColor=#white"/></a>
    
   
 ### 🌱 Study 🌱  
