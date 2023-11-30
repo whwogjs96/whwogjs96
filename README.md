@@ -29,7 +29,7 @@
 ### 😛 outsourcing  
 1️⃣ pawsley project(android) - (2022.11 ~ 2023.6)  
 2️⃣ space tailer(android) - (2023.3 ~ 2023.5)  
-3️⃣ Qmarket(android lead) - (2023.7 ~ 2023.12)  
+3️⃣ Qmarket(android lead) - (2023.7 ~ 2023.11)  
 4️⃣ hanhwa-vision(android) - (2023.11 ~ )
 
  ### [📓 Portfolio](https://truth-system-c90.notion.site/97ed498a1bc54d1c83a46e3caf41a050/)  
