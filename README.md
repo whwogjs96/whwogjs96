@@ -16,9 +16,8 @@
   
 ### 💻 My Experience  
 1️⃣ [CMC(challenger)](https://www.makeus.in/cmc) - Android developer(team finder, 2022.04 ~ 2022.07)  
-2️⃣ SixDotFiveCompany - develop manager  
-3️⃣ [CMC(manager)](https://www.makeus.in/cmc) - Android manager(2022.08 ~ 2022.11)  
-4️⃣ [CMC(manager)](https://www.makeus.in/cmc) - operation leader(2022.12 ~ 2023.9)  
+2️⃣ [CMC(manager)](https://www.makeus.in/cmc) - Android manager(2022.08 ~ 2022.11)  
+3️⃣ [CMC(manager)](https://www.makeus.in/cmc) - operation leader(2022.12 ~ 2023.9)  
 
 ### ✨ toy project
 1️⃣ f!nder(android) - (2022.04 ~ 2022.07)  
