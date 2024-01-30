@@ -54,8 +54,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Zeplin-FF7F00?style=flat-square&logoColor=#white"/></a>
-   
+<a target="_blank"><img src="https://img.shields.io/badge/Zeplin-FF7F00?style=flat-square&logoColor=#white"/></a>  
+<a target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=#white"/></a>  
   
 ### 🌱 Study 🌱  
   <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
