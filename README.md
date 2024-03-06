@@ -23,13 +23,13 @@
 1️⃣ Link Saver(android) - (2020.07 ~ 2021.02)  
 2️⃣ f!nder(android) - (2022.04 ~ 2022.07)  
 3️⃣ [Runner-be](https://play.google.com/store/apps/details?id=com.applemango.runnerbe&hl=ko) (android) - (2022.10 ~  )  
-4️⃣ Galapagos (PM && server) - (2023.4 ~ )  
+4️⃣ Galapagos (PM && server) - (2023.4 ~ 2024.1)  
   
 ### 😛 outsourcing  
 1️⃣ pawsley project(android) - (2022.11 ~ 2023.6)  
 2️⃣ space tailer(android) - (2023.3 ~ 2023.5)  
 3️⃣ Qmarket(android lead) - (2023.7 ~ 2023.11)  
-4️⃣ hanwha-keeper, keeperman(android) - (2023.12 ~ )
+4️⃣ hanwha-keeper, keeperman(android) - (2023.12 ~ 2024.4)
 
  ### [📓 Portfolio](https://truth-system-c90.notion.site/97ed498a1bc54d1c83a46e3caf41a050/)  
  
