@@ -18,7 +18,7 @@
 1️⃣ [CMC(challenger)](https://www.makeus.in/cmc) - Android developer(team finder, 2022.04 ~ 2022.07)  
 2️⃣ [CMC(manager)](https://www.makeus.in/cmc) - Android manager(2022.08 ~ 2022.11)  
 3️⃣ [CMC(manager)](https://www.makeus.in/cmc) - operation leader(2022.12 ~ 2023.9)  
-4️⃣ [CMC(manager)](https://www.makeus.in/cmc) - Android Lead(2024.3 ~ )  
+4️⃣ [CMC(manager)](https://www.makeus.in/cmc) - Android Lead(2024.3 ~ 2024.9)  
 
 ### ✨ toy project
 1️⃣ Link Saver(android) - (2020.07 ~ 2021.02)  
