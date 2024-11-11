@@ -31,7 +31,10 @@
 ### 😛 outsourcing  
 1️⃣ pawsley project(android) - (2022.11 ~ 2023.6)  
 2️⃣ Qmarket(android lead) - (2023.7 ~ 2023.11)  
- 
+
+### ETC
+1️⃣ 5th NE(O)RDINARY HACKATHON 대상 (2023.11.25 ~ 2023.11.26)
+
    
 ### My SNS List
 
