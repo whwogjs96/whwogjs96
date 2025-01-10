@@ -28,7 +28,7 @@
 4️⃣ Galapagos (PM && server) - (2023.4 ~ 2024.1)  
 5️⃣ RouteBox (iOS) - (2024.5 ~ )
   
-### 😛 outsourcing  
+### 😛 Outsourcing  
 1️⃣ pawsley project(android) - (2022.11 ~ 2023.6)  
 2️⃣ Qmarket(android lead) - (2023.7 ~ 2023.11)  
 
