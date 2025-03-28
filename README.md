@@ -37,8 +37,6 @@
 
    
 ### My SNS List
-
- <a href="https://www.instagram.com/pharmacy_heon" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://no-dev-nk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
 
 ### Tech-Stack
