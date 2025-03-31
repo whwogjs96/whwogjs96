@@ -36,7 +36,7 @@
 1️⃣ 5th NE(O)RDINARY HACKATHON 대상 (2023.11.25 ~ 2023.11.26)
 
    
-### My SNS List
+### My Blog
 <a href="https://no-dev-nk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
 
 ### Tech-Stack
