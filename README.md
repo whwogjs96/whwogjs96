@@ -28,7 +28,7 @@
 4️⃣ Galapagos (PM && server) - (2023.4 ~ 2024.1)  
 5️⃣ RouteBox (iOS) - (2024.5 ~ 2025.6)  
 6️⃣ board_dev_tycoon (flutter) - (2025.06 ~ )  
-7️⃣ ASMR_Player (Android) - (2025.11 ~ )
+7️⃣ ASMR_Player (Android) - (2025.11 ~ 2026.2)
   
 ### 😛 Outsourcing  
 1️⃣ pawsley project(android) - (2022.11 ~ 2023.6)  
