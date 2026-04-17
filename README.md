@@ -63,8 +63,6 @@
   <a target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
 
-### :smile: Etc...   
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwogjs12)](https://solved.ac/profile/whwogjs12)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=AACCBB&section=footer&text=%20thank%20you%20&fontColor=EBEFF5&height=250&fontSize=100&textBg=false)
 
