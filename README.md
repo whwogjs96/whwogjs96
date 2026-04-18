@@ -4,7 +4,7 @@
 
 
 안녕하세요.  
-안드로이드 개발자로 일하고 있는 6년차 조재헌입니다.  
+안드로이드 개발자로 일하고 있는 조재헌이라고 합니다.  
 항상 모자란 부분이 많고 배우는 과정에 있습니다. 😊  
 커피와 차, 그리고 피드백과 사람을 좋아하는 편입니다.  
 잘 부탁드립니다!  
@@ -29,6 +29,7 @@
 5️⃣ RouteBox (iOS) - (2024.5 ~ 2025.6)  
 6️⃣ board_dev_tycoon (flutter) - (2025.06 ~ )  
 7️⃣ ASMR_Player (Android) - (2025.11 ~ 2026.2)
+8️⃣ Dividend-Calculator (SpringBoot) - (2026.03 ~ 2026.04)  
   
 ### 😛 Outsourcing  
 1️⃣ pawsley project(android) - (2022.11 ~ 2023.6)  
