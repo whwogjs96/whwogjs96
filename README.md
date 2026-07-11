@@ -30,6 +30,7 @@
 6️⃣ board_dev_tycoon (flutter) - (2025.06 ~ )  
 7️⃣ ASMR_Player (Android) - (2025.11 ~ 2026.2)  
 8️⃣ Dividend-Calculator (SpringBoot) - (2026.03 ~ 2026.05)  
+9️⃣ Cocktail-fridge (Flutter) - (2026.07 ~ )    
   
 ### 😛 Outsourcing  
 1️⃣ pawsley project(android) - (2022.11 ~ 2023.6)  
